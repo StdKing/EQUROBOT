@@ -26,8 +26,8 @@ async def start(client, message):
             InlineKeyboardButton("⦿ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ⦿", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-            InlineKeyboardButton("⦿ɢʀᴏᴜᴘ⦿", url=f"https://t.me/ALLTYPECC"),
-            InlineKeyboardButton("⦿ᴏᴡɴᴇʀ⦿", user_id=OWNER_ID)
+            InlineKeyboardButton("⦿ᴄʜᴀɴɴᴇʟ⦿", url=f"https://t.me/StdAiUpdate"),
+            InlineKeyboardButton("⦿ʜᴏᴡ ᴛᴏ ᴜꜱᴇ⦿", url=f"https://t.me/StdAiUpdate")
         ]
     ]
 
